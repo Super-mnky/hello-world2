@@ -1,1 +1,3 @@
-# just testing git capabilitie
+# just testing git capabilities
+# and learning I cant spell
+ 
